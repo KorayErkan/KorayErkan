@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Koray
-- 👀 I’m interested in programming, testing, technical writing, and localization&mdash;in that order.
-- 💞️ I’m looking to collaborate on projects in one of the above fields.
-- 📫 You can reach me via [mail](mailto:korayerkan55@gmail.com)
+Hi, I’m Koray
 
-<!---
-KorayErkan/KorayErkan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m interested in software development, testing, technical writing, and localization&mdash;in that order. I have decades of experience in these fields.
+
+I’m looking to collaborate on projects as I'm sure I'll value to them.
+
+You can reach me via [mail](mailto:korayerkan55@gmail.com)
