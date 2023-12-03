@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KorayErkan
+- 👋 Hi, I’m Koray
 - 👀 I’m interested in programming, testing, technical writing, and localization&mdash;in that order.
 - 💞️ I’m looking to collaborate on projects in one of the above fields.
 - 📫 You can reach me via [mail](mailto:korayerkan55@gmail.com)
